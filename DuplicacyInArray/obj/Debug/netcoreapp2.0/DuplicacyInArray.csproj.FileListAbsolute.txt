@@ -1,0 +1,11 @@
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\bin\Debug\netcoreapp2.0\DuplicacyInArray.deps.json
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\bin\Debug\netcoreapp2.0\DuplicacyInArray.runtimeconfig.json
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\bin\Debug\netcoreapp2.0\DuplicacyInArray.runtimeconfig.dev.json
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\bin\Debug\netcoreapp2.0\DuplicacyInArray.dll
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\bin\Debug\netcoreapp2.0\DuplicacyInArray.pdb
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\obj\Debug\netcoreapp2.0\DuplicacyInArray.csprojAssemblyReference.cache
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\obj\Debug\netcoreapp2.0\DuplicacyInArray.csproj.CoreCompileInputs.cache
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\obj\Debug\netcoreapp2.0\DuplicacyInArray.AssemblyInfoInputs.cache
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\obj\Debug\netcoreapp2.0\DuplicacyInArray.AssemblyInfo.cs
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\obj\Debug\netcoreapp2.0\DuplicacyInArray.dll
+C:\Users\vmalla\Desktop\VijayaMalla\Github\DuplicacyInArray\DuplicacyInArray\obj\Debug\netcoreapp2.0\DuplicacyInArray.pdb
