@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/DuplicacyInArray/v15
+/DuplicacyInArray/bin/Debug/netcoreapp2.0
+/DuplicacyInArray/obj
+/DuplicacyInArray/obj/Debug/netcoreapp2.0
+/DuplicacyInArray/DuplicacyInArray.csproj.user
