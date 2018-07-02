@@ -53,7 +53,7 @@ namespace DuplicacyInArray
             UsingDictionary(intArray);
             var dictTime = stopwatch.Elapsed.TotalSeconds;
             stopwatch.Stop();
-            Console.WriteLine($"Time Elapsed using HashTables (in seconds) : {dictTime}");
+            Console.WriteLine($"Time Elapsed using Dictionary (in seconds) : {dictTime}");
             Console.WriteLine("-------------------------------------------------------");
             Console.ReadLine();
         }
